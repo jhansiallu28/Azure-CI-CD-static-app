@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h1>GEN AI for Models Model</h1>
-	<h2>Upload your data to make to get predictions</h2>
+    <h1>GEN AI for Model MLops manual approval</h1>
+	<h2>Upload your data to make to get predictions maual approval</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
